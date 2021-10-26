@@ -1,8 +1,8 @@
 ---
-title: Timeline
+title: Depth
 layout: timeline
-permalink: /timeline.html
+permalink: /depth.html
 # a timeline visualization will be added below the content in this file
 ---
 
-## Collection Timeline
+## Collection Depth
